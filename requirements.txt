@@ -1,3 +1,4 @@
+cmake
 Cython
 librosa==0.9.1
 numpy
